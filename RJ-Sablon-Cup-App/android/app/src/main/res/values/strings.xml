@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RJ Sablon Cup</string>
+    <string name="title_activity_main">RJ Sablon Cup</string>
+    <string name="package_name">com.rjsabloncup.app</string>
+    <string name="custom_url_scheme">com.rjsabloncup.app</string>
+</resources>
